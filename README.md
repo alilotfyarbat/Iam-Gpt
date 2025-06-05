@@ -98,5 +98,5 @@ ollama run new-model-name
 
 ### 👤 توسعه‌دهنده: [alilotfyarbat](https://github.com/alilotfyarbat)
 
----
+
 
